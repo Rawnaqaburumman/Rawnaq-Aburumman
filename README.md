@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-<br><h1>I am currently working as a Web Developer<h1/>.<br>I am currently learning How to solve, code problems.<br>I am interested in learning artificial intelligence and robotics in the future<br>Turn ideas into reality.
+<br><h1>I am currently working as a Web Developer<h1/><br>I am currently learning How to solve, code problems.<br>I am interested in learning artificial intelligence and robotics in the future<br>Turn ideas into reality.
 
 
 ## 🌐 Socials:
