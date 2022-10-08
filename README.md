@@ -1,8 +1,15 @@
 
 # 💫 About Me:
-<br><h1>I am currently working as a Web Developer<h1/><br>I am currently learning How to solve, code problems.<br>I am interested in learning artificial intelligence and robotics in the future<br>
+
+<br><h2  style="color:blue">I am currently working as a Web Developer<h2/><br>I am currently learning How to solve, code problems.   <br> <br>I am interested in learning Artificial Intelligence and Robotics in the future<br>
   <br>
-  Turn ideas into reality.
+  
+  ![image alt text](https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8ODd8fHByb2dyYW1taW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60)
+ 
+
+  
+![image alt text](https://images.unsplash.com/photo-1535378273068-9bb67d5beacd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fHJvYm90aWNzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp;  Turn ideas into reality.   
+  <br>
 
 
 ## 🌐 Socials:
